@@ -1,0 +1,13 @@
+filename = 'fabric-api-0.96.1+1.20.4.jar'
+name = 'Fabric API'
+side = 'both'
+
+[download]
+hash = '6f99e048e6836dab9044fdff09c8cd471c5658c6f60b0ad3047444336d301bb03e9172362979ec9d65af7af5a1270b954b53db643eabe7ae6c65ba9c6676be89'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/P7dR8mSH/versions/UgdmocrA/fabric-api-0.96.1%2B1.20.4.jar'
+
+[update.modrinth]
+mod-id = 'P7dR8mSH'
+version = 'UgdmocrA'

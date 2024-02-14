@@ -1,0 +1,7 @@
+{
+  "enableAlternateFog": true,
+  "enableWaterOpacityBlend": true,
+  "waterColorOverrides": {},
+  "waterFogDistanceOverrides": {},
+  "waterOpacityOverrides": {}
+}
